@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/pagerank_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/churongzhang/IdeaProjects/PageRank/target/scala-2.11/classes/PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

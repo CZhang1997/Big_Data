@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/churongzhang/IdeaProjects/Tweet/target/scala-2.11/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tweet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tweet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/churongzhang/IdeaProjects/Tweet/target/scala-2.11/classes.bak[0m
